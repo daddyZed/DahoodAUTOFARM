@@ -13,7 +13,7 @@ game.StarterGui:SetCore("SendNotification", {
     Title = "Script was made by zaddy you pussy";
     Text = "sucky my balls";
     Icon = "";
-    Duration = "3";
+    Duration = "1.5";
 })
 
 
