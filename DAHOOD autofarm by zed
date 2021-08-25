@@ -1,3 +1,24 @@
+wait(0.1)
+local function callback(text)
+    if text == "Yes" then
+	print("User said yes")
+    elseif text == "No" then
+	print("User said no")
+    end
+end
+
+local bindableFunction= Instance.new("BindableFunction")
+
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Script was made by zaddy you pussy";
+    Text = "sucky my balls";
+    Icon = "";
+    Duration = "3";
+})
+
+
+
+
 --[[
   Dahood autofarm by zaddy
   script looks shit ikik but who cares
